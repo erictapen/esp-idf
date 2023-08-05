@@ -10,7 +10,7 @@
 # and install Python requirements into it.
 #  It does not install OS dependencies. It does install tools such as the Xtensa
 #  GCC toolchain and ESP32 ULP coprocessor toolchain.
-i#
+#
 # By default, downloaded tools will be installed under $HOME/.espressif directory
 # (%USERPROFILE%/.espressif on Windows). This path can be modified by setting
 # IDF_TOOLS_PATH variable prior to running this tool.
